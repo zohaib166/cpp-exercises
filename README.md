@@ -1,4 +1,4 @@
-# Question1
+# Exercise1
 Complete the Point class so that it can find distance between two points and mid point of the line joining the two points <br>
 Expected input will be two coordinates in the form of x1 y1 x2 y2 <br>
 Expected output will be 'scalar distance between two points' and mid point of the line joining two given points in the form of (x,y) <br>
