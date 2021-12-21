@@ -10,7 +10,7 @@ Expected output will be 'scalar distance between two points' and mid point of th
 6 <br>
 (4,3) <br>
 
-Example 2: <br>
+<b>Example 2:</b> <br>
 <u>Input:</u> <br>
 10 12 10.5 12.5 <br>
 <u>Output</u> <br>
